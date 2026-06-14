@@ -1,0 +1,28 @@
+{
+  "name": "awesome-web-starter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "一个零依赖、开箱即用、现代化的纯前端网页启动模板，助你快速构建精美网站",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.6"
+  },
+  "keywords": [
+    "frontend",
+    "starter",
+    "template",
+    "vue",
+    "vite",
+    "web"
+  ],
+  "author": "1ukvcn",
+  "license": "MIT"
+}
